@@ -22,7 +22,6 @@
   "layer-gen": {
     "blueprints": [
       "component",
-      "component-addon",
       "component-class",
       "component-class-addon",
       "component-test"
